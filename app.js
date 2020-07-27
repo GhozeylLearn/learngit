@@ -1,1 +1,4 @@
-console.log("Welcome to JavaScript");
+console.log("Welcome to");
+console.log("to");
+console.log("JavaScript");
+
