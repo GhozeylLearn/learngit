@@ -1,5 +1,3 @@
 //first comments
-console.log("Welcome to");
-console.log("to");
-console.log("JavaScript");
+console.log(" Welcome to JavaScript App");
 
